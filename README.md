@@ -4,11 +4,8 @@ Project Management System
 Assumptions:
 
 • Project management system has a single CEO.
-
 • The CEO manages departments and managers.
-
 • A manager manages team members, projects, resources an tasks.
-
 • A team member updates task info.
 
 Design Patterns:
