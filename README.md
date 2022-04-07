@@ -3,7 +3,8 @@ Project Management System
 
 Project management system has a single CEO, The CEO manages departments and managers, A manager manages team members, projects, resources an tasks, A team member updates task info.
 
-Design Patterns:
+Design Patterns Used
+
 • Singleton
 The project management system has only one CEO user to make sure that a single object gets created we applied the singleton pattern on CEO class.
 
